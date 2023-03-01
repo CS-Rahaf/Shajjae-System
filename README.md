@@ -1,4 +1,4 @@
-# Shajjae-System
+# Shajja'e System
 
 Shajja'e is a system that targets football fans by enriching their experience in stadiums. The system also improves the management of stadiums and their facilities, which contributes to raising the efficiency of services provided by the authorities that responsible for managing the stadiums
 
